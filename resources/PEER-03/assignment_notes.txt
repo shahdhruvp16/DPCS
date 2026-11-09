@@ -1,0 +1,5 @@
+Distributed Computing Assignment 2
+
+Topic: Peer-to-Peer Resource Sharing
+Language: Python
+Protocol: TCP

@@ -1,0 +1,9 @@
+DPCS Distributed Resource Sharing
+
+Provider: PEER-03
+Resource: shared_document.txt
+
+This file is shared directly between independent
+peer nodes using TCP socket communication.
+
+No central file server is involved.
